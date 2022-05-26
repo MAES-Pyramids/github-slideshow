@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+this is MAES-Pyramids Line so don't touch it or it will take you heigh 
 Use the left arrow to go back!
